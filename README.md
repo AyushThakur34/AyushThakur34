@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushthakur34&label=Profile%20views&color=0e75b6&style=flat" alt="ayushthakur34" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Currently Working on **VSenior**
 
 - 📫 How to reach me **thakurayush9887@gmail.com**
 
